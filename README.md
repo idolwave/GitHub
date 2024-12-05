@@ -5,22 +5,20 @@ Live URL: https://idolwave.github.io/GitHub/
 GitHub is a web-based platform that uses Git, a version control system, to host and manage software development projects. It enables collaboration, tracks changes, and provides tools for managing the development workflow.
 
 <h2>Core Concepts:</h2>
-Repository (Repo):
 
-01. A repository is a storage space for a project, containing all files and their revision history.
+01.Repository (Repo): A repository is a storage space for a project, containing all files and their revision history.
 Repos can be public (visible to everyone) or private (restricted access).
-Branch:
 
-02 A branch is an independent line of development within a repo.
+02.Branch: A branch is an independent line of development within a repo.
 The default branch is typically main or master.
 Developers create branches to work on features or fixes without affecting the main codebase.
-Commit:
 
-03. A commit is a snapshot of changes made to files in a branch.
+
+03.Commit: A commit is a snapshot of changes made to files in a branch.
 Each commit has a unique identifier (hash) and often includes a message describing the changes.
-Pull Request (PR):
 
-04. A pull request is a proposal to merge changes from one branch into another.
+
+04.Pull Request (PR): A pull request is a proposal to merge changes from one branch into another.
 It allows for code review, testing, and and collaboration before merging the changes into the target branch.
 
 Expanded Explanation:
