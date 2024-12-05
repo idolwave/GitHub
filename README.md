@@ -16,10 +16,6 @@ GitHub is a web-based platform that uses Git, a version control system, to host 
 
 <li>Pull Request (PR): A pull request is a proposal to merge changes from one branch into another. It allows for code review, testing, and and collaboration before merging the changes into the target branch.</li>
 
-<p>Expanded Explanation:</p>
-Code Review: Team members can review the changes, provide feedback, and suggest improvements to ensure code quality and consistency.
-Testing: Changes can be tested in a controlled environment to confirm they don't introduce bugs or break existing functionality.
-Collaboration: Developers can discuss and refine the changes through comments or by committing additional improvements to the branch.
-A pull request acts as a safeguard to ensure only well-reviewed and tested code is integrated into the main branch or another target branch.
+<li>Code Review: Team members can review the changes, provide feedback, and suggest improvements to ensure code quality and consistency. Testing: Changes can be tested in a controlled environment to confirm they don't introduce bugs or break existing functionality. Collaboration: Developers can discuss and refine the changes through comments or by committing additional improvements to the branch. A pull request acts as a safeguard to ensure only well-reviewed and tested code is integrated into the main branch or another target branch.</li>
 
 
